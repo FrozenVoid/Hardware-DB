@@ -1,4 +1,4 @@
-Chip is mt3620 pluton by MediaTek, ARM7 
+Chip is mt3620 pluton by MediaTek
 https://www.mediatek.com/products/AIoT/mt3620
 
 Its drivers:
