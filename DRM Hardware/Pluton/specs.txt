@@ -1,0 +1,9 @@
+Chip is mt3620 pluton by MediaTek, ARM7 
+https://www.mediatek.com/products/AIoT/mt3620
+
+Its drivers:
+https://github.com/crpietschmann/AzureSphereOS/blob/a62b30910ef0ad79f56b785b1d7f7025eab14166/Linux-kernel/linux/drivers/platform/azure_sphere/pluton.c
+https://github.com/crpietschmann/AzureSphereOS/blob/a62b30910ef0ad79f56b785b1d7f7025eab14166/Linux-kernel/linux/drivers/char/hw_random/pluton-rng.c
+https://github.com/crpietschmann/AzureSphereOS/blob/a62b30910ef0ad79f56b785b1d7f7025eab14166/Linux-kernel/linux/drivers/net/wireless/mt3620/mt3620_wifi.c
+
+
