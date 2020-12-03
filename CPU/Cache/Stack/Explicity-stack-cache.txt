@@ -1,0 +1,2 @@
+A dedicated explicit (L1) cache unit that is optimized and mapped for Stack access patterns.
+https://research.cs.wisc.edu/multifacet/papers/tr1813_stack_cache.pdf
