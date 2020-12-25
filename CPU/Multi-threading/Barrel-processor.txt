@@ -1,0 +1,7 @@
+a Barrel processor allows programs to use hardware threads by interleaved execution
+on same CPU, with each thread assigned its own registers and stack.
+After each CPU cycle the CPU switches to next thread, with each thread having
+ speed of 1/n of CPU(where n is amount of hardware threads running).
+https://en.wikipedia.org/wiki/Barrel_processor
+Main disadvantages of Barrel processors are cache invalidation and
+ speed of single-threded application which is substantially lowered vs one-thread/one-core design.
