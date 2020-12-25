@@ -1,0 +1,4 @@
+a rotatable connector prevents wire breaks at endpoints(
+e.g. mouse wire breaks at point where wire is entering the mouse internal space.)
+such a connector would work similar to analog jack.
+https://en.wikipedia.org/wiki/Phone_connector_(audio)
