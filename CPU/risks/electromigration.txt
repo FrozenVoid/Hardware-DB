@@ -1,0 +1,17 @@
+Its not news that CPU life,reliability and durability is inversely proportional to thermal stress.Thermal stress grows with voltage, but also grows with amount of CPU components in busy state.
+The ignored consequence of this is that code which is optimized(hyperthreading,fully pipelined,branch-free) to use most of processors resources also draws the most heat and leaves little if any "cooling/rest" time if run repeatedly.
+On the other hand unoptimized, stalling code gives regular breaks so the processor thermals are normalized. This means hand-optimized asm code is dangerous choice to run for modern CPUs,regardless of external cooling: the internal core state where it matters is never cooled. Like in rowhammer exploit, repeated stress and heat would drive CPU parts to fail faster or produce more hardware errors. The smaller lithography (28nm,22nm,14nm) - more risk it represents due smaller area surface of transistor parts - the heat focuses (in tight asm routine) in specific parts for long periods: part will fail faster or start to corrupt data,like with overclocking(in fact CPU throttling down due abuse will actually lower average performance,and if there is sufficicient cooling the CPU components are actually put in more stress: cooling+heating+highclock+100%power).
+The above is also relevant to GPGPU code and videocard heat stress.
+Since the race to the limits of lithography never ends the future will see software dis-optimized by design to give breaks to core components.
+i.e. those asm-level advices like keep the
+ALU and SSE units busy at same time, avoid stalls and branches, which on the surface produces faster code would be considered as harmful and avoided at all cost(especially with smaller lithography). 
+
+Can be prevented by underclocking/undervolting.
+
+https://www.reddit.com/r/thinkpad/comments/4epc5h/intel_posts_warning_for_all_skylake_laptops/
+
+https://news.ycombinator.com/item?id=10157272
+
+https://techreport.com/forums/viewtopic.php?t=117694
+https://semiengineering.com/minimizing-chip-aging-effects/
+https://en.wikipedia.org/wiki/Electromigration
