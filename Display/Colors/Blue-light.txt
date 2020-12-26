@@ -1,0 +1,7 @@
+Blue light harms retinal cells(similar to UV rays) 
+Instead of buying special overpriced "gamer glasses" that filter blue light. Enter monitor settings and set these colors to 0(all) example: Blue saturation to 0, Cyan Saturation to 0, Magenta saturation to 0,(same with Hue/Brightness of  Blue/Cyan/Magenta) 
+studies: Applies to all LED lights(including LED lightbulbs with blue/white/yellow-white spectrum)
+https://www.reviewofoptometry.com/ce/the-lowdown-on-blue-light-good-vs-bad-and-its-connection-to-amd-109744
+https://www.ncbi.nlm.nih.gov/labs/articles/27751961/
+https://phys.org/news/2018-08-chemists-blue.html
+https://www.bustle.com/p/8-ways-to-reduce-blue-light-exposure-protect-your-eyes-19200515
