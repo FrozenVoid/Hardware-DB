@@ -1,0 +1,2 @@
+Drones can guided by inertial navigation;
+https://en.wikipedia.org/wiki/Inertial_navigation_system
