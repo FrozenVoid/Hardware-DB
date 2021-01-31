@@ -1,0 +1,13 @@
+a concept that explain how CPUs absorb the 
+functions of other processing devices;
+1.First the CPU is slow to do X.
+so another specialized processing unit is created(e.g. GPU)
+to perform X much faster.
+2.The specialized processing unit evolves to be generic(FPU)
+and is integrated into the processor(FPU,iGPU).
+3.The unit functionality is absorbed into the processor
+instruction set( extensions, vectors, memories).
+4.as CPU becomes more complex and inflexible, the expensive functionality
+is spun-off into dedicated hardware and cycle begins again.
+https://foldoc.org/cycle+of+reincarnation
+
