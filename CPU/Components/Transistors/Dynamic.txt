@@ -1,0 +1,7 @@
+Programmable transistors allow CPUs to
+ use specific CPU software
+ to generate new instructions in hardware:
+ by altering transistor groups,
+ making them a dynamic component.
+ 
+https://scitechdaily.com/revolutionary-new-intelligent-transistor-developed/
