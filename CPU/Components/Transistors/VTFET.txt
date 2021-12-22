@@ -1,0 +1,43 @@
+IBM and Samsung claim they’ve
+made a breakthrough in 
+semiconductor design. On day one 
+
+of the IEDM conference in 
+San Francisco, the two companies
+unveiled a new design for 
+stacking transistors vertically
+on a chip. With current 
+processors and SoCs, transistors
+lie flat on the surface of the 
+silicon, and then electric
+current flows from side-to-side.
+By contrast, Vertical Transport
+Field Effect Transistors (VTFET)
+sit perpendicular to one another 
+and current flows vertically.
+
+According to IBM and Samsung,
+this design has two advantages.
+First, it will allow them to
+
+bypass many performance 
+limitations to extend Moore’s Law
+beyond IBM's current nanosheet 
+technology. More importantly, 
+the design leads to less wasted
+energy thanks to greater current
+flow. They estimate VTFET will 
+lead to processors that are 
+either twice as fast or use 
+85 percent less power than chips
+designed with FinFET transistors.
+IBM and Samsung claim the process
+may one day allow for phones 
+that go a full week on a 
+single charge. They say it could
+also make certain energy-intensive
+tasks, including cryptomining, 
+more power-efficient and 
+therefore less impactful on the
+environment.
+https://www.engadget.com/ibm-samsung-vtfet-semiconductor-design-announcement-213018254.html
