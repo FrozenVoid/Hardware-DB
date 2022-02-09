@@ -1,0 +1,31 @@
+An internal handle design
+replaces external(above surface)
+handles by modifying space in
+the door itself to accomodate
+a reachable hole with two openings
+for a hand that look like (O|O)
+where 0's are large vertical holes and 
+| is a handle that is identical 
+horizontally with normal surface.
+
+  ASCII depiction of design:
+  ()=surface curves down
+_________________________
+[
+[   |= handle location(surface)
+[   0= hole location 
+[ ____
+[ (O|O)  
+[ (O|O)
+[ (O|O)
+[_________________________
+
+Advantages:
+Removal of door handle as component
+Easier transport and assembly.
+
+vs Recessed handle: much simpler
+mechanically and stronger(as entire
+door is used as handle surface)
+vs Side Handle: Less strain on 
+door hinges/mechanism(vertical strain)
