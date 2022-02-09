@@ -29,3 +29,10 @@ mechanically and stronger(as entire
 door is used as handle surface)
 vs Side Handle: Less strain on 
 door hinges/mechanism(vertical strain)
+
+Disadvantages:
+Low door thickness at handle location
+must be compensated by other side
+of door having a prominence(equal
+to handle volume),
+which lowers some space inside.
