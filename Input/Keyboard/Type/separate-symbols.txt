@@ -1,0 +1,12 @@
+A keyboard with separate 
+shifted keys for symbols,
+e.g. 1 and ! are separate keys
+without shift-1 required to enter !.
+
+List of symbols which currently
+require shift:
+~!@#$%^&*()_+|}{":?><
+
+Advantages:
+Significantly reduces typing
+effort while writing code.
