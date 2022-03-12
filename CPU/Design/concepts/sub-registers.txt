@@ -1,0 +1,9 @@
+sub-registers or register combination uses 
+large register parts to host
+smaller register.
+e.g. one N-bit register can host
+two (N/2) bit sub-registers at same
+space, which
+can allow to access parts of 
+N-bit number or modify it in-place
+using sub-registers instead of shifts.
