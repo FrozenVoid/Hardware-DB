@@ -1,0 +1,9 @@
+A typeless register is 
+an abstract N-bit storage 
+interface that can be used 
+as integer or float op argument.
+CPU can have multiple 'hardware'
+ registers that mirror the typeless
+  register(for each type).
+ 
+ 
