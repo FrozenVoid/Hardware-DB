@@ -1,0 +1,5 @@
+FMA is special case of infix op
+that has widespread hardware support,
+allowing accurate calculation
+of a+b*c expression.
+https://en.wikipedia.org/wiki/Multiply%E2%80%93accumulate_operation
