@@ -1,4 +1,4 @@
-Infix field in instruction can
+Infix field/operator in instruction can
 select operation from a limited(usually 0-255)
 set.
 Example:
