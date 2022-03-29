@@ -1,0 +1,4 @@
+A type prefix(e.g. 0-255)
+signifies the type of instructions
+ following it. e.g.
+ 1= Integer Scalar Operation
