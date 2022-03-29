@@ -1,0 +1,6 @@
+Length prefix signifies the 
+instruction packet length for
+variable length instruction sets.
+(usually 1-255)
+e.g. {[16 (bytes)][a][b][c][d]}
+where a,b,c,d are 4byte long.
