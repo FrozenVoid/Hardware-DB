@@ -1,0 +1,6 @@
+Cache Window/Buffer is a read/write buffer
+that maps to specific memory region(e.g. first
+ 64kb of addressess )to 
+accelerate memory-bound calculations:
+the program operating on the window will
+ see it as ordinary memory region.
