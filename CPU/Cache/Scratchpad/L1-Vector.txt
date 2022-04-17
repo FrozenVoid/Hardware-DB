@@ -1,0 +1,4 @@
+Scratchpad Cache can operate at near
+CPU register speed, which can be utilized
+for in-memory vector operations, which
+can be alternative to GPU processing.
