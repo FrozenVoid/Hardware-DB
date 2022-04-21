@@ -1,0 +1,4 @@
+A transform register operates as
+value is moved into it, e.g.
+negate register will apply(-x) to input,
+byteswap register will transfrom input into byteswapped form,
