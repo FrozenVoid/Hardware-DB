@@ -1,0 +1,8 @@
+Flat buttons provide no tactile feedback
+and lack features that allow them to be 
+touch-typed: this design assumes a user
+constantly looking at buttons and 
+recognizes the symbols in them.
+
+Alternatives:
+Labeled Text Switches with prominent bumps.
